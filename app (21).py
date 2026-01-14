@@ -7,7 +7,7 @@ from io import BytesIO # <--- NOU: Pentru audio în memorie
 
 # 1. Configurare Pagină
 st.set_page_config(page_title="Doamna Învățătoare", page_icon="🧠")
-st.title(""🧠 Profesor Universal"")
+st.title(""🧠 Doamna Învățătoare"")
 
 # 2. Configurare API Key
 if "GOOGLE_API_KEY" in st.secrets:
